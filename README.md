@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Python Developer<br>⚙️ Backend-Focused Full Stack Engineer<br>🚀 Building Scalable REST APIs & Real-World Applications<br><br>🛠️ Tech Stack<br>🔥 Flask • ⚡ FastAPI • 🗄️ SQLAlchemy • 🐬 MySQL • 🐘 PostgreSQL<br><br>📡 RESTful API Design • Backend Architecture • Database Management<br><br>🤖 Machine Learning • 🧠 AI & Generative AI Enthusiast<br><br>🌍 🚀 Open Source Contributor<br><br>🎓 BTech CSE Student<br><br>💡 Passionate about Backend Engineering, System Design & Developer Tools
+🐍 Python Developer<br>⚙️ Backend-Focused developer <br>🚀 Building Scalable REST APIs & Real-World Applications<br><br>🛠️ Tech Stack<br>🔥 Flask • ⚡ FastAPI • 🗄️ SQLAlchemy • 🐬 MySQL • 🐘 PostgreSQL<br><br>📡 RESTful API Design • Backend Architecture • Database Management<br><br>🤖 Machine Learning • 🧠 AI & Generative AI Enthusiast<br><br>🌍 🚀 Open Source Contributor<br><br>🎓 BTech CSE Student<br><br>💡 Passionate about Backend Engineering, System Design & Developer Tools
 
 
 ## 🌐 Socials:
